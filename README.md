@@ -1,1 +1,1 @@
-CM device tree
+CM10.1 device tree for HTC Explorer
