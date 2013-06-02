@@ -1,1 +1,1 @@
-CM device tree
+CM7 device tree for HTC Explorer
