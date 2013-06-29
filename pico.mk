@@ -24,7 +24,9 @@ PRODUCT_PACKAGES += \
     libmm-omxcore \
     libstagefrighthw \
     libOmxCore \
-    libI420colorconvert
+    libI420colorconvert \
+    libdashplayer \
+    qcmediaplayer
     
 # Graphics 
 PRODUCT_PACKAGES += \
